@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yea:home|Door43 (yea)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yea|d43-yea repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yea/archive/master.zip|d43-yea.zip]]
+
+**Recent Changes**
+{{changes>ns = yea}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yea|Ethnologue data]]
+
